@@ -126,7 +126,7 @@ export default function CreateProject() {
                     className='animate-fadeIn opacity-0'
                     style={{
                       animationDelay: `${
-                        (ind + 1) * 350 + (memInd + 1) * 1700 - 2000
+                        (ind + 1) * 350 + (memInd + 1) * 1700 - 1800
                       }ms`,
                     }}>
                     {member}
